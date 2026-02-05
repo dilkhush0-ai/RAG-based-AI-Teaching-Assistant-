@@ -1,0 +1,530 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 0.0,
+            "end": 21.0,
+            "text": " Guys, AI is not a future anymore, it's present, it's now.  AGI is coming tomorrow, there are no jobs by the end of this year.  As we think about the dangers of AI, that people can do really dangerous stuff and you can't pull it back.  In today's video, we will discuss what you should do to win in the AI era.  So that you can climb the ladder of success and be successful in your life."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 21.0,
+            "end": 41.0,
+            "text": " With the help of AI, a new class of winners are emerging.  Now you can either be one of them or you can ignore AI and lose.  AI has changed the game in almost every field.  From e-commerce to personalized shopping experience to customer journeys, everything is happening with the help of AI.  Whether we talk about education or content creation,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 41.0,
+            "end": 66.0,
+            "text": " if you want to create your own online store in today's date, AI is not optional, it's a must.  Or if you want to maintain a big code base, AI is not optional, it's a must.  I will tell you about this video in 5 points and in the 5th point, I will explain something that you might have never heard of.  I am not saying this because you should watch the whole video, but I will elaborate the 5th point.  You will get a good idea of what AI is, why it is, how it is."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 66.0,
+            "end": 82.0,
+            "text": " And after listening to the 5th point, you will know that AI is just not there yet.  But at the same time, you can't ignore AI.  So let's start with the first point.  So the best way to win in the AI era is by learning.  You have to keep your personal learning intact."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 82.0,
+            "end": 100.0,
+            "text": " Now why don't you go into any field, whether it's web development,  whether you are entering into programming, starting from Python,  or let us say you want to do data science, which is arguably the best career path of today,  you have to learn from scratch.  You are a human being and AI is totally different."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 100.0,
+            "end": 118.0,
+            "text": " So don't think that AI is doing everything, so I won't learn.  The most important thing for you in AI era is learning.  And you have to start from zero.  And if you understand that you have to learn exactly like you did in pre-AI era,  then you have understood a big thing."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 118.0,
+            "end": 128.0,
+            "text": " Let us say out of 100 people, 10 people are saying that you don't have to learn,  I will get this done with AI.  You don't have to learn this either, I will get it done with AI.  Why should I do web development? I will get it done with AI.  It doesn't work like that."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 128.0,
+            "end": 146.0,
+            "text": " If you learn web development from yourself, then you will be able to do things next level with AI.  If you learn data science from yourself, what are the concepts behind it,  what do we do, when do we use it,  then you will be able to write good prompts related to machine learning and data science.  So learning is very important."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 146.0,
+            "end": 163.0,
+            "text": " And to support this learning, I have made a course for you in data science.  If you are stuck in your career path, then you can check out this course in data science  and enroll in it.  Because I have put a lot of effort in it and I have taught you from scratch data science  so that you can transition to machine learning and in future,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 163.0,
+            "end": 175.0,
+            "text": " you can follow the trend of AI.  In the coming time, there will be a lot of jobs in data science,  which is why I chose this course.  I have taken a lot of time to make this course.  And all the people who have enrolled in this course have given me positive feedback."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 175.0,
+            "end": 197.0,
+            "text": " And all the small things they told me related to the platform, we have fixed that too.  So if you enroll at this time, then this is a self-paced course.  You can enroll from the link given in the description at a discounted price in this course.  And you can keep your learning safe because learning is the key in the AI era.  Then whether you are coding or not, you have to learn."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 197.0,
+            "end": 213.0,
+            "text": " Because if you have trained your human mind, then it can help you to learn a lot from AI.  Now I'll tell you a very good thing.  If you are using AI, then I'll ask you a question.  Can you make a website like Facebook with the help of AI?  There is a good chance that most of you will not be able to make it."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 213.0,
+            "end": 231.0,
+            "text": " You will get stuck somewhere, you won't be able to deploy here,  your website won't be scalable or you will get into some kind of problem.  I am not talking about experts, I know many experts watch my videos.  But I am talking about those people who are learning and understanding things.  And they don't have much knowledge of things."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 231.0,
+            "end": 247.0,
+            "text": " They won't be able to make it.  And if you start learning from scratch, then you will be able to learn.  That's the whole point of learning from scratch.  The second point is that you will feel very intuitive, but many people don't follow it.  And I will say that most of the people are not following it, using it."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 247.0,
+            "end": 267.0,
+            "text": " The most available, easiest to use and arguably the best AI tool is ChartGPD.  You should use it.  Make your daily habit that you use ChartGPD on a daily basis.  If you are talking to your friends, mentors, college professors,  you can add this too, you can start talking to this."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 267.0,
+            "end": 281.0,
+            "text": " You can literally talk to ChartGPD.  You can install the ChartGPD app, you can tap on the mic,  you can ask it questions, you can ask cross questions,  and you can increase your learning.  You can ask it literally, this is the situation of my life,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 281.0,
+            "end": 296.0,
+            "text": " what should I do now?  And it will give you a very good response.  I will show you a demo because many people don't understand what I am talking about.  So as you can see here, I have opened ChartGPD on my phone.  Now I will click on the mic icon here and ask,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 296.0,
+            "end": 313.0,
+            "text": " Will Python be relevant in the next 5 years?  And I will click on tick here, it will transcribe my audio.  And after that, I will click here, on this send button.  Now after this, it generates very fast.  As soon as it generates, while I am working,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 313.0,
+            "end": 328.0,
+            "text": " maybe I am making my bed or I am making my food,  or let us say I am making coffee for myself,  I will long tap on this and click on read aloud.  Yes, Python will definitely remain relevant in the next 5 years,  and likely much longer for several strong reasons."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 328.0,
+            "end": 343.0,
+            "text": " And I can listen to it like this while working.  And believe me, by doing this, you can enhance your knowledge.  Look, everyone of you must be doing cleaning at some level,  cleaning your room, cleaning your table,  at some level you are doing such work,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 343.0,
+            "end": 354.0,
+            "text": " where your mind is completely empty.  Or you are relaxing, walking, doing gym, doing anything.  If you incorporate such things in your life,  think about how much you can learn on a daily basis,  then use it."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 354.0,
+            "end": 367.0,
+            "text": " Now you can replace chart GPT with Gemini, Cloud,  whatever you feel is right, or whatever is relevant in the coming time,  today I feel the best accuracy is chart GPT.  So you have to use it.  And I will say something that may seem a bit awkward to some people,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 367.0,
+            "end": 380.0,
+            "text": " I will tell you what it is.  Basically, the thing is that if you log in your chart GPT  and do not exhaust its free limit of 4o,  by the way, you get a free limit in chart GPT,  which is reset in 24 hours."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 380.0,
+            "end": 392.0,
+            "text": " If you are not exhausting that free limit,  then definitely you are underutilizing it.  You should utilize it for your learning.  Now many people will ask why should you use it for free,  take a subscription, do this and that."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 392.0,
+            "end": 407.0,
+            "text": " I know that not everyone takes a subscription,  and some people have this in their mind that they don't want to take it.  You have a free tool available here, so use it.  And some people will come in the comments to tell me  that why are you suggesting this,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 407.0,
+            "end": 418.0,
+            "text": " open AI load will increase the server,  why are you saying to exhaust the free limit every day.  They are giving this on trial basis,  they should understand this.  If they are offering trial, then it is our job to use it."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 418.0,
+            "end": 429.0,
+            "text": " After this, the third advice I want to give is that  you should pick your domain and after that,  get things done.  You should chase speed.  It is important to chase speed for you along with your learning."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 429.0,
+            "end": 439.0,
+            "text": " I will give you an example of this.  If you want to make a website,  you should use AI to make it.  Because you will know your end goal,  what you are chasing."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 439.0,
+            "end": 451.0,
+            "text": " And after that, you will get trapped in it.  Along with your learning,  you can do it separately from your learning.  If you are giving 5-6 hours of learning,  then you should use AI to make some amazing projects."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 451.0,
+            "end": 461.0,
+            "text": " Do wipe coding.  But at the same time, keep in mind that  in the coming time, if you are going to make a serious project,  and if you do wipe coding,  then you are going to lose control over your code."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 461.0,
+            "end": 471.0,
+            "text": " So understanding is one thing,  learning is another thing,  but using AI tools to make amazing projects,  will give you confidence,  boost, motivation to do things."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 471.0,
+            "end": 481.0,
+            "text": " That will be different.  Now if you want to make an e-commerce website,  instead of building it from scratch,  I will tell you to use WordPress,  use WooCommerce."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 481.0,
+            "end": 491.0,
+            "text": " Now I will give you an analogy.  If you want to make an e-commerce website,  or an e-commerce business,  then you won't make a website from scratch.  So that your website is made from scratch,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 491.0,
+            "end": 501.0,
+            "text": " and after that, you use good tools  and focus on your business.  And speaking of e-commerce,  if you really run your e-commerce business,  and if you don't use AI marketing tools like Omnisend,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 501.0,
+            "end": 511.0,
+            "text": " then you are missing out on a lot of things.  Omnisend is an e-commerce plugin,  which as a store owner,  gives you a huge leverage,  when it comes to email marketing,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 511.0,
+            "end": 521.0,
+            "text": " and using AI to your advantage,  as an e-commerce store owner.  So now I will take you to the computer screen,  and I will show you some amazing features of Omnisend.  You have to go to omnisend.com,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 521.0,
+            "end": 531.0,
+            "text": " and log in from your account,  or if you don't have an account,  then you have to sign up,  and after that, you can log in to your account,  and connect to your store."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 531.0,
+            "end": 541.0,
+            "text": " After selecting your store,  you can start any workflow,  for example, I can start product abandonment workflow,  I will click on start workflow,  and here I can easily specify"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 541.0,
+            "end": 551.0,
+            "text": " what should happen,  for example, what product is in stock,  and then I have to trigger something,  or what message I have to show,  if someone has put the product in the cart,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 551.0,
+            "end": 561.0,
+            "text": " and no action is taken for 1-2 hours,  after that, what email to send,  you can control all this from here.  We talked a lot about AI in this video,  Omnisend has a lot of AI features,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 561.0,
+            "end": 571.0,
+            "text": " like AI Subject Line Generator,  which you can generate a great subject line  of any email using AI.  You can also use Omnisend product recommender,  which will give you recommendations"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 571.0,
+            "end": 581.0,
+            "text": " of the product using AI.  This plugin is not only for email marketing,  it will also help you in doing this kind of work.  Along with this, you can also use  custom segmentation,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 581.0,
+            "end": 591.0,
+            "text": " which will help you to send different kinds of emails to different customers.  So, these are some features of Omnisend,  I will give you a link in the description,  do check it out.  Omnisend is also a sponsor of this video,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 591.0,
+            "end": 601.0,
+            "text": " so I would like to thank them for sponsoring this video.  So, in total, what I said in the third point,  was that you should pick a domain,  chase speed, and low hanging fruits,  which means, you can easily do this,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 601.0,
+            "end": 613.0,
+            "text": " and do the things that will have the most impact.  That's what low hanging fruit means.  So, always, you should first of all  chase low hanging fruits,  which means, do the things that you can easily do,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 613.0,
+            "end": 623.0,
+            "text": " and do the things that will have the most impact.  Because when you will see the impact,  you are going to get very motivated.  The fourth point is that you should  create your AI tool and leverage it"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 623.0,
+            "end": 633.0,
+            "text": " to your advantage.  You might face a problem in your life  that you want to solve, use your creative mind,  use your human creativity,  and create something that is actually useful for you."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 633.0,
+            "end": 643.0,
+            "text": " First solve your problem,  and then you can solve others' problems.  In the AI era, if your resume  is not screaming and saying AI,  then it will be very difficult for you to select."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 643.0,
+            "end": 653.0,
+            "text": " Now, many people will say that  I design, why should I add AI in my resume?  I am a HTML developer,  why should I add AI in my resume?  I am a backend developer, why should I add AI in my resume?"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 653.0,
+            "end": 663.0,
+            "text": " I am an electrician, I am a plumber,  I don't know.  You should add AI to your resume somehow.  And don't lie, you should actually use AI.  And then you should put AI projects"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 663.0,
+            "end": 673.0,
+            "text": " in your resume.  Create a good GitHub profile, create good projects,  create unique projects, don't make a to-do list.  Every time a recruiter sees something  in your resume, he doesn't see something."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 673.0,
+            "end": 683.0,
+            "text": " So don't fill your GitHub profile  with to-do lists, there is a snake game,  there is ludo,  you have copied Jarvis code,  create something unique and tell him"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 683.0,
+            "end": 693.0,
+            "text": " that I have made this unique,  and it should be visible in your GitHub profile.  Now, the fifth point, I want to explain  that AI is just not there yet.  The way we see AI,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 693.0,
+            "end": 703.0,
+            "text": " or the way AI is shown to us,  something like this is shown that  it is a human being, and it is a person  who comes with his superhuman powers.  But actually, this doesn't happen."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 703.0,
+            "end": 713.0,
+            "text": " These are some people who pretend  to you that AI  is working like a superhuman.  I'll give you an example of this.  If you are talking to AI, then there is a chance"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 713.0,
+            "end": 723.0,
+            "text": " that it will give you wrong information,  there is also a chance that it won't understand  your problem and won't solve it,  there is also a chance that it will waste your time,  and its context window is very limited."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 723.0,
+            "end": 733.0,
+            "text": " I'll give you an example.  If you are telling AI to pretend  to be a human, and you shouldn't know  that you are a human or a human being,  then AI will try to trick a human"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 733.0,
+            "end": 743.0,
+            "text": " that he is talking to a human.  In this case, you can win easily from AI.  You can keep asking AI questions,  keep asking questions, keep asking questions.  This is very limited."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 743.0,
+            "end": 753.0,
+            "text": " The capability to remember the conversation  is very limited.  Because of which you can easily  exhaust its context window.  This is the biggest limitation."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 753.0,
+            "end": 763.0,
+            "text": " Otherwise, we can tell AI everything  in a 500-800 pages document  and it will do all our work.  But this doesn't happen. At a time, you give a prompt  and the thing that LLM has learned"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 763.0,
+            "end": 773.0,
+            "text": " from the beginning, it gives you that.  And it also tells you the data  on which it is trained.  When I was a kid, I had a coin.  And when I had the coin,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 773.0,
+            "end": 783.0,
+            "text": " it got stuck in my throat  at 2 am.  I made a lot of noise at home  and they found out that I had the coin.  So my dad took me out."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 783.0,
+            "end": 793.0,
+            "text": " He had a scooter.  He took me on a scooter at 2-2 am.  Some people were awake at that time.  I couldn't breathe.  But later the coin went down."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 793.0,
+            "end": 803.0,
+            "text": " They gave me bananas.  And told me to take me to the hospital.  I told them to give me bananas.  I told them that nothing will happen at this time.  Now why am I telling you all this?"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 803.0,
+            "end": 813.0,
+            "text": " I am telling you all this because  all these things are from the time  when I was 5-7 years old.  And I still remember all that.  I still remember exactly what happened."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 813.0,
+            "end": 823.0,
+            "text": " I mean some things that humans can remember  so old, that too exactly.  I remember every single scene.  LLM can't remember that much.  So the human and LLM"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 823.0,
+            "end": 833.0,
+            "text": " are completely different.  LLM is not there yet.  It's a completely different architecture.  The human being is a completely different thing.  So if you want to leverage AI in your life"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 833.0,
+            "end": 843.0,
+            "text": " then you have to learn to use it.  There are many things  that AI can do better.  For example, AI's speed is very good.  It can spit out a lot of information"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 843.0,
+            "end": 853.0,
+            "text": " at a time of different domains.  You as a human may not be able to do it.  But you as a human can do a lot of things  that AI can't do.  For example, solving your real world problem."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 853.0,
+            "end": 863.0,
+            "text": " You say it very deeply.  AI doesn't have a deep reasoning.  AI just simulates reasoning.  So in conclusion,  I just want to tell you that AI is"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 863.0,
+            "end": 873.0,
+            "text": " just a tool.  If you learn to use it, you can go to a next level.  So if you think that AI  will take your job, no, AI won't take your job.  But at the same time,"
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 873.0,
+            "end": 883.0,
+            "text": " there is a big shift.  For example, during the industrial revolution,  there were people who lost their jobs  and there were people who had  done 10x because of the industrial revolution."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 883.0,
+            "end": 893.0,
+            "text": " So you should become a person  who benefits from AI.  And always keep in mind that  AI is just a tool  that you can use to level up."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 893.0,
+            "end": 903.0,
+            "text": " That's it.  Use AI in learning, use AI in building your projects,  use AI in solving your real world problem  and you'll definitely win in the long run.  I hope you liked this video."
+        },
+        {
+            "number": "12",
+            "title": "Intro",
+            "start": 903.0,
+            "end": 909.0,
+            "text": " Thank you so much for watching this video.  And I will see you  next time."
+        }
+    ],
+    "text": " Guys, AI is not a future anymore, it's present, it's now. AGI is coming tomorrow, there are no jobs by the end of this year. As we think about the dangers of AI, that people can do really dangerous stuff and you can't pull it back. In today's video, we will discuss what you should do to win in the AI era. So that you can climb the ladder of success and be successful in your life. With the help of AI, a new class of winners are emerging. Now you can either be one of them or you can ignore AI and lose. AI has changed the game in almost every field. From e-commerce to personalized shopping experience to customer journeys, everything is happening with the help of AI. Whether we talk about education or content creation, if you want to create your own online store in today's date, AI is not optional, it's a must. Or if you want to maintain a big code base, AI is not optional, it's a must. I will tell you about this video in 5 points and in the 5th point, I will explain something that you might have never heard of. I am not saying this because you should watch the whole video, but I will elaborate the 5th point. You will get a good idea of what AI is, why it is, how it is. And after listening to the 5th point, you will know that AI is just not there yet. But at the same time, you can't ignore AI. So let's start with the first point. So the best way to win in the AI era is by learning. You have to keep your personal learning intact. Now why don't you go into any field, whether it's web development, whether you are entering into programming, starting from Python, or let us say you want to do data science, which is arguably the best career path of today, you have to learn from scratch. You are a human being and AI is totally different. So don't think that AI is doing everything, so I won't learn. The most important thing for you in AI era is learning. And you have to start from zero. And if you understand that you have to learn exactly like you did in pre-AI era, then you have understood a big thing. Let us say out of 100 people, 10 people are saying that you don't have to learn, I will get this done with AI. You don't have to learn this either, I will get it done with AI. Why should I do web development? I will get it done with AI. It doesn't work like that. If you learn web development from yourself, then you will be able to do things next level with AI. If you learn data science from yourself, what are the concepts behind it, what do we do, when do we use it, then you will be able to write good prompts related to machine learning and data science. So learning is very important. And to support this learning, I have made a course for you in data science. If you are stuck in your career path, then you can check out this course in data science and enroll in it. Because I have put a lot of effort in it and I have taught you from scratch data science so that you can transition to machine learning and in future, you can follow the trend of AI. In the coming time, there will be a lot of jobs in data science, which is why I chose this course. I have taken a lot of time to make this course. And all the people who have enrolled in this course have given me positive feedback. And all the small things they told me related to the platform, we have fixed that too. So if you enroll at this time, then this is a self-paced course. You can enroll from the link given in the description at a discounted price in this course. And you can keep your learning safe because learning is the key in the AI era. Then whether you are coding or not, you have to learn. Because if you have trained your human mind, then it can help you to learn a lot from AI. Now I'll tell you a very good thing. If you are using AI, then I'll ask you a question. Can you make a website like Facebook with the help of AI? There is a good chance that most of you will not be able to make it. You will get stuck somewhere, you won't be able to deploy here, your website won't be scalable or you will get into some kind of problem. I am not talking about experts, I know many experts watch my videos. But I am talking about those people who are learning and understanding things. And they don't have much knowledge of things. They won't be able to make it. And if you start learning from scratch, then you will be able to learn. That's the whole point of learning from scratch. The second point is that you will feel very intuitive, but many people don't follow it. And I will say that most of the people are not following it, using it. The most available, easiest to use and arguably the best AI tool is ChartGPD. You should use it. Make your daily habit that you use ChartGPD on a daily basis. If you are talking to your friends, mentors, college professors, you can add this too, you can start talking to this. You can literally talk to ChartGPD. You can install the ChartGPD app, you can tap on the mic, you can ask it questions, you can ask cross questions, and you can increase your learning. You can ask it literally, this is the situation of my life, what should I do now? And it will give you a very good response. I will show you a demo because many people don't understand what I am talking about. So as you can see here, I have opened ChartGPD on my phone. Now I will click on the mic icon here and ask, Will Python be relevant in the next 5 years? And I will click on tick here, it will transcribe my audio. And after that, I will click here, on this send button. Now after this, it generates very fast. As soon as it generates, while I am working, maybe I am making my bed or I am making my food, or let us say I am making coffee for myself, I will long tap on this and click on read aloud. Yes, Python will definitely remain relevant in the next 5 years, and likely much longer for several strong reasons. And I can listen to it like this while working. And believe me, by doing this, you can enhance your knowledge. Look, everyone of you must be doing cleaning at some level, cleaning your room, cleaning your table, at some level you are doing such work, where your mind is completely empty. Or you are relaxing, walking, doing gym, doing anything. If you incorporate such things in your life, think about how much you can learn on a daily basis, then use it. Now you can replace chart GPT with Gemini, Cloud, whatever you feel is right, or whatever is relevant in the coming time, today I feel the best accuracy is chart GPT. So you have to use it. And I will say something that may seem a bit awkward to some people, I will tell you what it is. Basically, the thing is that if you log in your chart GPT and do not exhaust its free limit of 4o, by the way, you get a free limit in chart GPT, which is reset in 24 hours. If you are not exhausting that free limit, then definitely you are underutilizing it. You should utilize it for your learning. Now many people will ask why should you use it for free, take a subscription, do this and that. I know that not everyone takes a subscription, and some people have this in their mind that they don't want to take it. You have a free tool available here, so use it. And some people will come in the comments to tell me that why are you suggesting this, open AI load will increase the server, why are you saying to exhaust the free limit every day. They are giving this on trial basis, they should understand this. If they are offering trial, then it is our job to use it. After this, the third advice I want to give is that you should pick your domain and after that, get things done. You should chase speed. It is important to chase speed for you along with your learning. I will give you an example of this. If you want to make a website, you should use AI to make it. Because you will know your end goal, what you are chasing. And after that, you will get trapped in it. Along with your learning, you can do it separately from your learning. If you are giving 5-6 hours of learning, then you should use AI to make some amazing projects. Do wipe coding. But at the same time, keep in mind that in the coming time, if you are going to make a serious project, and if you do wipe coding, then you are going to lose control over your code. So understanding is one thing, learning is another thing, but using AI tools to make amazing projects, will give you confidence, boost, motivation to do things. That will be different. Now if you want to make an e-commerce website, instead of building it from scratch, I will tell you to use WordPress, use WooCommerce. Now I will give you an analogy. If you want to make an e-commerce website, or an e-commerce business, then you won't make a website from scratch. So that your website is made from scratch, and after that, you use good tools and focus on your business. And speaking of e-commerce, if you really run your e-commerce business, and if you don't use AI marketing tools like Omnisend, then you are missing out on a lot of things. Omnisend is an e-commerce plugin, which as a store owner, gives you a huge leverage, when it comes to email marketing, and using AI to your advantage, as an e-commerce store owner. So now I will take you to the computer screen, and I will show you some amazing features of Omnisend. You have to go to omnisend.com, and log in from your account, or if you don't have an account, then you have to sign up, and after that, you can log in to your account, and connect to your store. After selecting your store, you can start any workflow, for example, I can start product abandonment workflow, I will click on start workflow, and here I can easily specify what should happen, for example, what product is in stock, and then I have to trigger something, or what message I have to show, if someone has put the product in the cart, and no action is taken for 1-2 hours, after that, what email to send, you can control all this from here. We talked a lot about AI in this video, Omnisend has a lot of AI features, like AI Subject Line Generator, which you can generate a great subject line of any email using AI. You can also use Omnisend product recommender, which will give you recommendations of the product using AI. This plugin is not only for email marketing, it will also help you in doing this kind of work. Along with this, you can also use custom segmentation, which will help you to send different kinds of emails to different customers. So, these are some features of Omnisend, I will give you a link in the description, do check it out. Omnisend is also a sponsor of this video, so I would like to thank them for sponsoring this video. So, in total, what I said in the third point, was that you should pick a domain, chase speed, and low hanging fruits, which means, you can easily do this, and do the things that will have the most impact. That's what low hanging fruit means. So, always, you should first of all chase low hanging fruits, which means, do the things that you can easily do, and do the things that will have the most impact. Because when you will see the impact, you are going to get very motivated. The fourth point is that you should create your AI tool and leverage it to your advantage. You might face a problem in your life that you want to solve, use your creative mind, use your human creativity, and create something that is actually useful for you. First solve your problem, and then you can solve others' problems. In the AI era, if your resume is not screaming and saying AI, then it will be very difficult for you to select. Now, many people will say that I design, why should I add AI in my resume? I am a HTML developer, why should I add AI in my resume? I am a backend developer, why should I add AI in my resume? I am an electrician, I am a plumber, I don't know. You should add AI to your resume somehow. And don't lie, you should actually use AI. And then you should put AI projects in your resume. Create a good GitHub profile, create good projects, create unique projects, don't make a to-do list. Every time a recruiter sees something in your resume, he doesn't see something. So don't fill your GitHub profile with to-do lists, there is a snake game, there is ludo, you have copied Jarvis code, create something unique and tell him that I have made this unique, and it should be visible in your GitHub profile. Now, the fifth point, I want to explain that AI is just not there yet. The way we see AI, or the way AI is shown to us, something like this is shown that it is a human being, and it is a person who comes with his superhuman powers. But actually, this doesn't happen. These are some people who pretend to you that AI is working like a superhuman. I'll give you an example of this. If you are talking to AI, then there is a chance that it will give you wrong information, there is also a chance that it won't understand your problem and won't solve it, there is also a chance that it will waste your time, and its context window is very limited. I'll give you an example. If you are telling AI to pretend to be a human, and you shouldn't know that you are a human or a human being, then AI will try to trick a human that he is talking to a human. In this case, you can win easily from AI. You can keep asking AI questions, keep asking questions, keep asking questions. This is very limited. The capability to remember the conversation is very limited. Because of which you can easily exhaust its context window. This is the biggest limitation. Otherwise, we can tell AI everything in a 500-800 pages document and it will do all our work. But this doesn't happen. At a time, you give a prompt and the thing that LLM has learned from the beginning, it gives you that. And it also tells you the data on which it is trained. When I was a kid, I had a coin. And when I had the coin, it got stuck in my throat at 2 am. I made a lot of noise at home and they found out that I had the coin. So my dad took me out. He had a scooter. He took me on a scooter at 2-2 am. Some people were awake at that time. I couldn't breathe. But later the coin went down. They gave me bananas. And told me to take me to the hospital. I told them to give me bananas. I told them that nothing will happen at this time. Now why am I telling you all this? I am telling you all this because all these things are from the time when I was 5-7 years old. And I still remember all that. I still remember exactly what happened. I mean some things that humans can remember so old, that too exactly. I remember every single scene. LLM can't remember that much. So the human and LLM are completely different. LLM is not there yet. It's a completely different architecture. The human being is a completely different thing. So if you want to leverage AI in your life then you have to learn to use it. There are many things that AI can do better. For example, AI's speed is very good. It can spit out a lot of information at a time of different domains. You as a human may not be able to do it. But you as a human can do a lot of things that AI can't do. For example, solving your real world problem. You say it very deeply. AI doesn't have a deep reasoning. AI just simulates reasoning. So in conclusion, I just want to tell you that AI is just a tool. If you learn to use it, you can go to a next level. So if you think that AI will take your job, no, AI won't take your job. But at the same time, there is a big shift. For example, during the industrial revolution, there were people who lost their jobs and there were people who had done 10x because of the industrial revolution. So you should become a person who benefits from AI. And always keep in mind that AI is just a tool that you can use to level up. That's it. Use AI in learning, use AI in building your projects, use AI in solving your real world problem and you'll definitely win in the long run. I hope you liked this video. Thank you so much for watching this video. And I will see you next time."
+}

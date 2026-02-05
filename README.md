@@ -1,5 +1,10 @@
 # RAG-Based AI Teaching Assistant
 
+🚀 A production-ready Retrieval-Augmented Generation (RAG) based AI Teaching Assistant for accurate and context-aware learning support.
+
+🔹 Focus: Reducing hallucinations using vector search + LLM grounding
+
+
 ## Overview
 The RAG-Based AI Teaching Assistant is an intelligent educational support system designed to provide accurate, context-aware answers by combining document retrieval with Large Language Models (LLMs). It leverages Retrieval-Augmented Generation (RAG) to ground responses in relevant source documents, improving reliability and reducing hallucinations.
 
